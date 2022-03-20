@@ -9,7 +9,7 @@ import requests
 from allpairspy import AllPairs
 import xlrd
 import xlwt
-from xlutils import copy
+# from xlutils import copy
 import os
 
 # 获取公共参数
